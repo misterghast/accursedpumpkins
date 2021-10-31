@@ -1,0 +1,18 @@
+{
+	"type": "minecraft:block",
+	"pools": [{
+		"name": "custompumpkin",
+		"rolls": 1,
+		"entries": [{
+			"type": "minecraft:item",
+			"functions": [
+              			{
+				"function": "minecraft:copy_state",
+				"source": "accursed:custompumpkin"
+             			}
+			],
+			"name": "accursed:custompumpkin"
+		}]
+	}]
+
+}

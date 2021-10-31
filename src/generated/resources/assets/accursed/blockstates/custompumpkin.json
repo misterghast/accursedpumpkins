@@ -1,0 +1,160 @@
+{
+  "variants": {
+    "design=0,lit=false": {
+      "model": "accursed:block/custompumpkin0"
+    },
+    "design=1,lit=false": {
+      "model": "accursed:block/custompumpkin1"
+    },
+    "design=2,lit=false": {
+      "model": "accursed:block/custompumpkin2"
+    },
+    "design=3,lit=false": {
+      "model": "accursed:block/custompumpkin3"
+    },
+    "design=4,lit=false": {
+      "model": "accursed:block/custompumpkin4"
+    },
+    "design=5,lit=false": {
+      "model": "accursed:block/custompumpkin5"
+    },
+    "design=6,lit=false": {
+      "model": "accursed:block/custompumpkin6"
+    },
+    "design=7,lit=false": {
+      "model": "accursed:block/custompumpkin7"
+    },
+    "design=8,lit=false": {
+      "model": "accursed:block/custompumpkin8"
+    },
+    "design=9,lit=false": {
+      "model": "accursed:block/custompumpkin9"
+    },
+    "design=10,lit=false": {
+      "model": "accursed:block/custompumpkin10"
+    },
+    "design=11,lit=false": {
+      "model": "accursed:block/custompumpkin11"
+    },
+    "design=12,lit=false": {
+      "model": "accursed:block/custompumpkin12"
+    },
+    "design=13,lit=false": {
+      "model": "accursed:block/custompumpkin13"
+    },
+    "design=14,lit=false": {
+      "model": "accursed:block/custompumpkin14"
+    },
+    "design=15,lit=false": {
+      "model": "accursed:block/custompumpkin15"
+    },
+    "design=16,lit=false": {
+      "model": "accursed:block/custompumpkin16"
+    },
+    "design=17,lit=false": {
+      "model": "accursed:block/custompumpkin17"
+    },
+    "design=18,lit=false": {
+      "model": "accursed:block/custompumpkin18"
+    },
+    "design=19,lit=false": {
+      "model": "accursed:block/custompumpkin19"
+    },
+    "design=20,lit=false": {
+      "model": "accursed:block/custompumpkin20"
+    },
+    "design=21,lit=false": {
+      "model": "accursed:block/custompumpkin21"
+    },
+    "design=22,lit=false": {
+      "model": "accursed:block/custompumpkin22"
+    },
+    "design=23,lit=false": {
+      "model": "accursed:block/custompumpkin23"
+    },
+    "design=24,lit=false": {
+      "model": "accursed:block/custompumpkin24"
+    },
+    "design=25,lit=false": {
+      "model": "accursed:block/custompumpkin25"
+    },
+    "design=0,lit=true": {
+      "model": "accursed:block/custompumpkinlit0"
+    },
+    "design=1,lit=true": {
+      "model": "accursed:block/custompumpkinlit1"
+    },
+    "design=2,lit=true": {
+      "model": "accursed:block/custompumpkinlit2"
+    },
+    "design=3,lit=true": {
+      "model": "accursed:block/custompumpkinlit3"
+    },
+    "design=4,lit=true": {
+      "model": "accursed:block/custompumpkinlit4"
+    },
+    "design=5,lit=true": {
+      "model": "accursed:block/custompumpkinlit5"
+    },
+    "design=6,lit=true": {
+      "model": "accursed:block/custompumpkinlit6"
+    },
+    "design=7,lit=true": {
+      "model": "accursed:block/custompumpkinlit7"
+    },
+    "design=8,lit=true": {
+      "model": "accursed:block/custompumpkinlit8"
+    },
+    "design=9,lit=true": {
+      "model": "accursed:block/custompumpkinlit9"
+    },
+    "design=10,lit=true": {
+      "model": "accursed:block/custompumpkinlit10"
+    },
+    "design=11,lit=true": {
+      "model": "accursed:block/custompumpkinlit11"
+    },
+    "design=12,lit=true": {
+      "model": "accursed:block/custompumpkinlit12"
+    },
+    "design=13,lit=true": {
+      "model": "accursed:block/custompumpkinlit13"
+    },
+    "design=14,lit=true": {
+      "model": "accursed:block/custompumpkinlit14"
+    },
+    "design=15,lit=true": {
+      "model": "accursed:block/custompumpkinlit15"
+    },
+    "design=16,lit=true": {
+      "model": "accursed:block/custompumpkinlit16"
+    },
+    "design=17,lit=true": {
+      "model": "accursed:block/custompumpkinlit17"
+    },
+    "design=18,lit=true": {
+      "model": "accursed:block/custompumpkinlit18"
+    },
+    "design=19,lit=true": {
+      "model": "accursed:block/custompumpkinlit19"
+    },
+    "design=20,lit=true": {
+      "model": "accursed:block/custompumpkinlit20"
+    },
+    "design=21,lit=true": {
+      "model": "accursed:block/custompumpkinlit21"
+    },
+    "design=22,lit=true": {
+      "model": "accursed:block/custompumpkinlit22"
+    },
+    "design=23,lit=true": {
+      "model": "accursed:block/custompumpkinlit23"
+    },
+    "design=24,lit=true": {
+      "model": "accursed:block/custompumpkinlit24"
+    },
+    "design=25,lit=true": {
+      "model": "accursed:block/custompumpkinlit25"
+    }
+  }
+}
